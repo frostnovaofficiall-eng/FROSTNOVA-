@@ -1,0 +1,9 @@
+{
+  "name": "KEMOR",
+  "description": "High-performance real-time voice community & squad communication platform for gamers and communities.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
